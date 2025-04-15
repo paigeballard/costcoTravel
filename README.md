@@ -1,0 +1,1 @@
+Costco Travel is a simple web-based project that mimics a travel booking interface. It allows users to explore travel options such as packages, hotels, cruises, and rental cars. The project is built using HTML, CSS, and JavaScript, and it demonstrates responsive design, interactive navigation, and form handling.
